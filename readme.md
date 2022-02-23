@@ -19,6 +19,6 @@ I'm a software engineering student, machine learning enthusiast with a focus on 
 <p align="center">
 <a href="https://github.com/andyj29">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=andyj29&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyj29&exclude_repo=tensorflow&theme=tokyonight&layout=compact&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyj29&exclude_repo=tensorflow&hide=Procfile&theme=tokyonight&layout=compact&hide_border=true"/>
 </a>
 </p>
